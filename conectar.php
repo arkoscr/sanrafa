@@ -7,8 +7,8 @@ $method = $_SERVER['REQUEST_METHOD'];
 function conectarDB(){
 
   $servidor = "localhost";
-  $usuario = "u185562691_srAdmin";
-  $password = "hola123SR*";
+  $usuario = "root";
+  $password = "";
   $bd = "u185562691_sr";
 
     $conexion = mysqli_connect($servidor, $usuario, $password,$bd);
