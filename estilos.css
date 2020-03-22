@@ -1,0 +1,12 @@
+#contenedor { 
+
+    background-color: #f7f9fb;
+}
+
+.oculto{
+    visibility: hidden;
+}
+
+body{
+    font-family: 'Sen', sans-serif;
+}
